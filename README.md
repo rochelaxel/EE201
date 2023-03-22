@@ -1,2 +1,3 @@
 “# Replace with Title Here”
-# EE
+# EE 201 Exploring Devices 
+
